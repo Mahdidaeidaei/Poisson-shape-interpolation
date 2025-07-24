@@ -47,6 +47,7 @@ python main.py sphere_projected cube_projected --t 0.5
 
 The first two arguments are the names of the input meshes, and the last argument is the transition parameter (0 means the interpolated shape will be the first mesh, 1 means the second mesh, for getting something in between, put 0.5)
 
+The result mesh is created in **samples** directory under name **result_mesh_melange.ply**
 
 
 
