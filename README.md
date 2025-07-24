@@ -23,17 +23,17 @@ Two samples are a cube and a sphere mesh, and the expected result shape must be 
 
 <img width="788" height="751" alt="image" src="https://github.com/user-attachments/assets/b401d677-3eac-4495-8cef-015b1f76c4fb" />        
 
-*the cube*
+                                                  the cube
 
       
 <img width="773" height="720" alt="image" src="https://github.com/user-attachments/assets/42b21381-7e12-4247-8c19-9c07fc2927e4" />    
 
-*the sphere*  
+                                                 the sphere  
 
 
 <img width="799" height="726" alt="image" src="https://github.com/user-attachments/assets/87a96d52-01ed-43a5-8a2e-4bf21397e0fd" />
 
-*interpolated shape*
+                                             interpolated shape
 
 
 
