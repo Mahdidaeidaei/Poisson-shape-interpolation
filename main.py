@@ -1,6 +1,6 @@
 import numpy as np
 import trimesh
-
+import argparse
 
 
 from mesh_loader import load_ply_vertices_faces
@@ -50,11 +50,6 @@ def mixer_fun(index_i, index_j , t):
     mesh_interp.export('samples/result_mesh_melange.ply')
 
 
-    
- 
-#V_interp_reshaped=mixer_fun("sphere_projected", "cube_projected", t = 0.5)  # Example usage with indices 1 and 2, neighbors=8, t=0.5
-
-import argparse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Mix two PLY meshes")
